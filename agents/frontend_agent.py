@@ -1,7 +1,7 @@
 from google import genai
 
 # Configure Gemini client
-client = genai.Client(api_key="AIzaSyDspZ9klOOAV-2XbilSItRpxphfS0OvU_o")
+client = genai.Client(api_key="")
 
 
 def frontend_agent(project_idea):
